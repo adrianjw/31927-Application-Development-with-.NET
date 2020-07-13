@@ -1,0 +1,15 @@
+guest|1234
+user1|password123
+user2|321password
+jimmy|123456
+NotBatman|UTS2017
+Charly1|ChatMe
+1Elis|qwe123
+RitMe|sx5Gt
+Shery|3692813
+Mage1|COrk
+RaasH1|NoPasslongC0m
+hello|world
+royy1|rRRRR
+Suchi|subdotCom
+jimy1|asdasd

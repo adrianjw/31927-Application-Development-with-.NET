@@ -1,0 +1,14 @@
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 1\bin\Release\Assignment 1.exe.config
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 1\bin\Release\Assignment 1.exe
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 1\bin\Release\Assignment 1.pdb
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.csprojAssemblyReference.cache
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.exe
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.pdb
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 1\bin\Release\Assignment 1.exe.config
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 1\bin\Release\Assignment 1.exe
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 1\bin\Release\Assignment 1.pdb
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.csprojAssemblyReference.cache
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.exe
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 1\obj\Release\Assignment 1.pdb

@@ -1,0 +1,24 @@
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.LoginWindow.resources
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.TextEditorWindow.resources
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\a1998\OneDrive for Business\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.CreateAccountWindow.resources
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.LoginWindow.resources
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.CreateAccountWindow.resources
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment_2.TextEditorWindow.resources
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\a1998\OneDrive - UTS\2019 Spring\31927 Application Development with .NET\Assignment 2\obj\Debug\Assignment 2.pdb
