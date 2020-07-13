@@ -1,8 +1,9 @@
 # 31927 Application Development with .NET
-University: University of Technology Sydney
 
-Session: Spring 2019
+**University:** University of Technology Sydney
 
-Subject: 31927 Application Development with .NET
+**Session:** Spring 2019
 
-Final Grade: High Distinction 93/100
+**Subject:** 31927 Application Development with .NET
+
+**Final Grade:** High Distinction 93/100
