@@ -1,1 +1,0 @@
-Locate "login.txt" in /bin/Release, and enter your login credentials in the file and save, then run "Assignment1.exe".
