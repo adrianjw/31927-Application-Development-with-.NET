@@ -2,4 +2,4 @@
 
 1. Launch `assignment 2.exe` in `\bin\release`
 2. Log in to the app using the credentials stored in `\bin\release\login.txt` (formatted in `<username>,<password>,<user_type>,<first_name>,<last_name>,<DOB>`)
-3. Read `assignment 2 - specification.pdf`
+3. Read `assignment 2 - specification.pdf` on how to use the app
